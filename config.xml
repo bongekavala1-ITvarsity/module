@@ -1,0 +1,20 @@
+
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+        
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "PGBuildApp-debug.4085208.1.apk"
+    version     = "n-a" >
+
+
+  <name>pinecity</name>
+
+  <description>
+      Pine city Zoo App.
+  </description>
+
+  <author href="" email="bongekavala19@mail.com">
+      IT VARSITY
+  </author>
+    
+</widget>
+    
